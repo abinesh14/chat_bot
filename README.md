@@ -4,7 +4,6 @@ This is a chatbot application built using **Streamlit** and the **Google Gemini-
 
 ## Features
 - **Conversational Chat Interface**: Users can chat with the Gemini-Pro AI model, which provides intelligent responses.
-- **Chat History**: The application stores and displays the history of interactions between the user and the chatbot.
 - **Easy Deployment**: The app is designed to be easily deployable with Streamlit, allowing you to run it as a web app.
 - **API Integration**: It integrates with Google’s Gemini-Pro API for generating responses.
 
