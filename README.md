@@ -14,3 +14,6 @@ Before running the application, make sure to install the following dependencies:
 - **Streamlit**: For creating the web-based interface.
 - **Google Generative AI**: For integrating with the Gemini-Pro model.
 
+## Images
+![Screenshot (122)](https://github.com/user-attachments/assets/5a0f6052-4a93-49a7-9b4e-27f2790744b7)
+![Screenshot (123)](https://github.com/user-attachments/assets/2f1830d0-61a6-4b3b-83fe-8db49afcd72d)
