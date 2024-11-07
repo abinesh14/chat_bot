@@ -1,4 +1,4 @@
-# Chat with Gemini-Pro! - Chatbot Application
+# Chat with Gemini-Pro! - Chatbot Application 🤖
 
 This is a chatbot application built using **Streamlit** and the **Google Gemini-Pro AI model** (specifically the gemini-1.5-flash variant). Users can interact with the chatbot in a conversational interface, where the bot responds to user queries.
 
